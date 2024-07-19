@@ -1,1 +1,1 @@
-# telerymodule_time
+# Модуль time для юзербота Telery.
